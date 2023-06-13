@@ -60,7 +60,7 @@ void loop() {
 
     if (count == 1) {
 
-    int lightMode = random(3,4);//asndjajsdjfasdfjasjdfjawjsdf
+    int lightMode = random(1,5);//asndjajsdjfasdfjasjdfjawjsdf
     int lightTime = random(1,6);
     int lightTimeR = random(1,6);
     int lightTimeL = random(1,6);
